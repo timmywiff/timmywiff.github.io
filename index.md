@@ -1,14 +1,9 @@
 ---
-layout: default
-title: Home
+#
+# By default, content added below the "---" mark will appear in the home page
+# between the top bar and the list of recent posts.
+# To change the home page layout, edit the _layouts/home.html file.
+# See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
+#
+layout: home
 ---
-
-# Hello, World!
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. In egestas sapien eget ex tristique, nec elementum nulla volutpat. Suspendisse placerat sapien urna, in commodo massa vestibulum eget. In vel consectetur sem. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nunc imperdiet, elit eget rutrum convallis, eros sapien auctor leo, at venenatis ligula nisi ac nisl. Praesent eu arcu mauris. Duis aliquam congue gravida. Vestibulum elementum condimentum urna, ac malesuada lacus.
-
-```php
-$array = ['php', 'is', 'amazing'];
-
-echo implode(' ', $array);
-```
