@@ -1,5 +1,10 @@
 title: timmywiff
+author: Tim Wiffen
 description: Dev, dev, dev...
 show_downloads: false
 google_analytics:
 theme: jekyll-theme-hacker
+
+# social links
+twitter_username: timmywiff
+github_username:  timmywiff
